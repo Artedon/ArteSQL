@@ -1,0 +1,6 @@
+name: ArteSQL
+version: '${project.version}'
+main: nl.artesql.ArteSQL
+api-version: 1.17
+authors: [ Nevermiindd ]
+description: SQL framework for spigot plugins

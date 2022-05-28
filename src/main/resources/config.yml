@@ -1,0 +1,23 @@
+# insert your database hostname here
+# default value is localhost
+dbhost: localhost
+
+# insert your database port here
+# default value is 3306
+dbport: 3306
+
+# insert your database username here
+# default value is root
+dbuser: root
+
+# insert your database password here
+# no default value
+dbpass: none
+
+# insert your database name here
+# default value is mydb
+dbname: mydb
+
+# set to true if you want the plugin to shutdown
+# if database connection failed
+disable-on-fail: false
